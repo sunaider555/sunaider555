@@ -59,9 +59,9 @@
   </tbody>
 </table>
 
-<a href="https://chainsulting.de">
+/*<a href="https://chainsulting.de">
   <img align="left" alt="Chainsulting - Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/firefoxbrowser.svg"/>
-</a>
+</a>*/
 
 
 <a href="https://t.me/SoftDev317">
