@@ -67,7 +67,6 @@
 <br />
 <br />
 
-Chainsulting was founded 2017 and is a consulting and development company, on the subject of Distributed Ledger Technology (DLT) & Digital Assets. We show ways, opportunities, risks and offer comprehensive solutions. 
 
 ✔ Development<br>
 ✔ Consulting <br>
